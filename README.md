@@ -1,32 +1,16 @@
-# A Complete Intro to React
+# Viddy
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
+A movie poster and trailer site built in React and Redux.
+[](public/img/movie_index.png)
+[](public/img/movie_details.png)
 
-## Contributing
 
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
+## Installing
 
-## License
-
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
-
-## Start with the beginning branch
+From the command line, clone the repository to your local directory...
+```
+$ git clone https://github.com/seanyboy49/Viddy
 
 ```
-git clone git@github.com:btholt/complete-intro-to-react.git
-cd complete-intro-to-react
-git fetch
-git checkout -b start origin/start
-npm install
-```
 
-## Sync to a Branch Later in the Course
-
-```
-git checkout -b fem-10 origin/fem-10
-npm install
-```
-
-^ Name local branch the same as origin branch.
+Then run `npm install` from the directory where you downloaded the repo. As long as you have node and npm install, you should see a list of dependencies being installed.

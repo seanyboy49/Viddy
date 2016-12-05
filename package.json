@@ -1,7 +1,7 @@
 {
-  "name": "intro to React",
+  "name": "Viddy-Intro-to-React",
   "version": "1.0.0",
-  "description": "A fork of Brian Holts' intro to React tutorail",
+  "description": "A fork of Brian Holts' tutorial on React",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -52,9 +52,18 @@
   "directories": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanyboy49/Viddy"
+  },
   "keywords": [
     "react",
     "workshop",
     "intro",
     "redux"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/seanyboy49/Viddy/issues"
+  },
+  "homepage": "https://github.com/seanyboy49/Viddy#readme"
+}
