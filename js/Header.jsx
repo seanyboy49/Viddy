@@ -30,7 +30,7 @@ class Header extends React.Component {
       <header className='header'>
         <h1 className='brand'>
           <Link to='/' className='brand-link'>
-            svideo
+            Viddy
           </Link>
         </h1>
         {utilSpace}
