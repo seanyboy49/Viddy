@@ -1,8 +1,9 @@
 # Viddy
 
 A movie poster and trailer site built in React and Redux.
-[](public/img/movie_index.png)
-[](public/img/movie_details.png)
+
+![movie_index](https://github.com/seanyboy49/Viddy/blob/master/public/img/movie_index.png)
+![movie_details](https://github.com/seanyboy49/Viddy/blob/master/public/img/movie_details.png)
 
 
 ## Installing
